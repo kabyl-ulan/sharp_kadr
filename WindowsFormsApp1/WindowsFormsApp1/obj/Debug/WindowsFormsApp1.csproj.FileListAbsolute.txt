@@ -1,0 +1,13 @@
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.otdel.resources
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doljnost.resources
+D:\MyProjects\source\repos\Kadrovay_slujba\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sotrudnik.resources
